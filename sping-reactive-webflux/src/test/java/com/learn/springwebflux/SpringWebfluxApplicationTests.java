@@ -1,13 +1,13 @@
-package com.learn.reactive;
+package com.learn.springwebflux;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpingReactiveWebfluxApplicationTests {
+class SpringWebfluxApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
